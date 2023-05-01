@@ -4,7 +4,7 @@ This is an application called Note Taker that can be used to write and save note
 
 
 
-##Links
+## Links
 Deployed application to heroku
 https://dashboard.heroku.com/apps/morning-depths-15980
 
