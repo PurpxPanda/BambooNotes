@@ -6,7 +6,7 @@ This is an application called Note Taker that can be used to write and save note
 
 ## Links
 Deployed application to heroku
-https://dashboard.heroku.com/apps/morning-depths-15980
+https://morning-depths-15980.herokuapp.com/
 
 Github repo
 https://github.com/PurpxPanda/BambooNotes
